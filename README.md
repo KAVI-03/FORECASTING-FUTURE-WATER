@@ -96,12 +96,14 @@ Works in Demo Mode even without model files
 # Run the App
 
 bash# Install dependencies
-pip install streamlit scikit-learn xgboost joblib numpy pandas
+streamlit 
+scikit-learn 
+xgboost 
+joblib 
+numpy 
+pandas
 
-# Launch
-streamlit run app.py
 
-Open your browser at http://localhost:8501
 
 
 # 🔁 How to Reproduce
