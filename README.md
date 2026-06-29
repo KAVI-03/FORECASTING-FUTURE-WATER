@@ -163,3 +163,7 @@ Build a mobile-friendly PWA version of HydroSense
 Deploy on cloud (AWS / GCP / Hugging Face Spaces)
 
 
+# 🚀 Live Demo
+
+
+Try the app here: https://forecasting-future-water-fiatv6gcczwgqgchnvhb8m.streamlit.app/
